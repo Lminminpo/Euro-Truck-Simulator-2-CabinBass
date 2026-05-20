@@ -32,3 +32,10 @@ python test_music.py
 pip install pyinstaller
 
 pyinstaller --onefile --noconsole --name CabinBass test_music.py
+
+|
+
+下载    Download
+
+https://wwayt.lanzoul.com/iirnQ3pxyq5c
+密码:hpbt
