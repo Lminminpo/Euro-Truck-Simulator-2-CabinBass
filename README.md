@@ -11,7 +11,7 @@
 
 用法和功能    Usage and Features
 
-下载exe文件，双击打开，选择你存放音乐的文件夹，F9用来播放和暂停，wasd四个键分别用来关闭右车窗，打开左车窗，关闭左车窗，打开右车窗（此功能不会影响游戏内的车窗状态，建议将游戏内控制车窗的按键设置成和工具对应以获得最好的体验）以模拟不同状态下的声音效果    Download the exe file, double-click to open, select your music folder. F9 to play/pause. A/S/W/D keys to open left window, close left window, close right window, open right window respectively (this tool does not affect the in-game window state, it is recommended to set the in-game window control keys to match the tool for the best experience), simulating sound effects under different window states
+下载exe文件，双击打开，设置游戏内控制车窗的按键，选择你存放音乐的文件夹，F9用来播放和暂停，可以在设置界面根据自己的喜好调整混响效果    Download the exe file, double-click to open it, set the in-game keys for controlling the car windows, select your music folder, use F9 to play and pause, and adjust the reverb effects in the settings panel to your preference
 
 |
 
@@ -25,17 +25,9 @@
 
 pip install numpy scipy sounddevice pynput miniaudio
 
-python test_music.py
-
-打包    Build
-
-pip install pyinstaller
-
-pyinstaller --onefile --noconsole --name CabinBass test_music.py
-
 |
 
 下载    Download
 
-https://wwayt.lanzoul.com/iirnQ3pxyq5c
-密码:hpbt
+https://wwayt.lanzoul.com/b00mqd9chg
+密码:5oce
