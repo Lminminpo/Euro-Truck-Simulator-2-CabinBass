@@ -1,3 +1,13 @@
+v1.3
+
+增加了监听音乐软件的功能（借助VB-Cable）
+
+修复了第一次打开设置按键卡输入法的问题
+
+稍微提升音质
+
+|
+
 v1.1
 
 增加了自定义控制车窗按键    Added customizable window control key bindings
