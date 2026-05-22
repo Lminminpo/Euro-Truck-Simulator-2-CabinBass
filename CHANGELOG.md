@@ -1,10 +1,20 @@
+v1.4
+
+增加了一些可自定义参数    Added some customizable parameters
+
+改进了VB-Cable的安装方式    Improved the installation method of VB-Cable
+
+优化了默认声效    Optimized the default sound effects
+
+|
+
 v1.3
 
-增加了监听音乐软件的功能（借助VB-Cable）
+增加了监听音乐软件的功能（借助VB-Cable）    Added the function to monitor music software (using VB-Cable)
 
-修复了第一次打开设置按键卡输入法的问题
+修复了第一次打开设置按键卡输入法的问题    Fixed an issue where the input method (IME) would interfere when opening the key binding setup dialog for the first time
 
-稍微提升音质
+稍微提升音质    Slightly improve sound quality
 
 |
 
