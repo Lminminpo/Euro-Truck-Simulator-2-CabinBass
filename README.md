@@ -13,7 +13,7 @@
 
 用法和功能    Usage and Features
 
-下载exe文件，双击打开，设置游戏内控制车窗的按键，选择你存放音乐的文件夹，F9用来播放和暂停，或者点击实时监测页面，点击蓝色链接下载VB-Cable，根据软件内指引操作，可以在设置界面根据自己的喜好调整混响效果    Download the exe file, double-click to open, set the keys for controlling car windows in-game, select the folder where your music is stored, F9 is used to play and pause, or go to the real-time monitoring page, click the blue link to download VB-Cable, follow the instructions in the software, and adjust the reverb effects in the settings page according to your preference
+下载exe文件，双击打开，设置游戏内控制车窗的按键以实现联动的音效，选择你存放音乐的文件夹，F9用来播放和暂停，或者点击实时监测页面，点击下载VB-Cable，根据软件内指引操作，可以在设置界面根据自己的喜好调整混响效果    Download the exe file, double-click to open it, set the in-game key for controlling the car windows to achieve linked sound effects, select the folder where you store music, use F9 to play and pause, or click on the real-time monitoring page, click to download VB-Cable, follow the software instructions, and you can adjust the reverb effects in the settings interface according to your preferences
 
 |
 
