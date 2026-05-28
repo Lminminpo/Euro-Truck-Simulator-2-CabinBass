@@ -1,3 +1,13 @@
+v1.5
+
+修复安装VB-Cable时拒绝给管理员权限却依然提示安装完成的bug    Fix the bug where VB-Cable shows installation completed even when administrator privileges are denied during installation
+
+优化音质    Optimize sound quality
+
+优化性能    Optimize performance
+
+|
+
 v1.4
 
 增加了一些可自定义参数    Added some customizable parameters
