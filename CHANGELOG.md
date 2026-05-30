@@ -1,3 +1,15 @@
+v1.6
+
+增加制作和录音功能    Increase production and recording features
+
+增加本地音乐播放进度条    Add a local music playback progress bar
+
+优化默认参数    Optimize default parameters
+
+优化性能    Optimize performance
+
+|
+
 v1.5
 
 修复安装VB-Cable时拒绝给管理员权限却依然提示安装完成的bug    Fix the bug where VB-Cable shows installation completed even when administrator privileges are denied during installation
